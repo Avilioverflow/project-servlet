@@ -1,0 +1,24 @@
+td {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+
+td.X {
+    background-color: #a77e04;
+    color: white;
+}
+
+td.O {
+    background-color: #9c01a6;
+    color: white;
+}
+
+td {
+    background-color: #f5f5f5;
+    color: black;
+}
