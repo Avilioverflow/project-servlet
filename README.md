@@ -1,4 +1,5 @@
 # project-servlet
-![Страница_Игры](./scr/main/webapp/static/logo.png)
+
+![Image alt](Screenshot_2.png)
 
 use Ctrl+Shift+R to reload page if styles are not loaded
